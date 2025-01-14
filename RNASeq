@@ -6,6 +6,7 @@
 # Load necessary libraries
 library(edgeR)
 library(dplyr)
+library(limma)
 
 # Set working directory (adjust to your file location)
 setwd("C:/Users/12817/OneDrive - Wake Forest University/Senior/Genomics Research")
